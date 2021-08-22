@@ -7,7 +7,7 @@ input-files:
 filters:
 - filters/pagebreak.lua
 
-reference-doc: custom-reference.docx
+reference-doc: test_format.docx
 
 table-of-contents: false
 toc-depth: 2
