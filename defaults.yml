@@ -1,8 +1,9 @@
 from: markdown+hard_line_breaks
 to: docx
-output-file: result.docx
+output-file: 02_output.docx
+
 input-files:
-- entry.md
+- 01_input.md
 
 filters:
 - filters/pagebreak.lua
